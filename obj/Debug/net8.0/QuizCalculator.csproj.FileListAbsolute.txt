@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\QuizCalculator\bin\Debug\net8.0\QuizCalculator.exe
+C:\Users\rjhel\source\repos\QuizCalculator\bin\Debug\net8.0\QuizCalculator.deps.json
+C:\Users\rjhel\source\repos\QuizCalculator\bin\Debug\net8.0\QuizCalculator.runtimeconfig.json
+C:\Users\rjhel\source\repos\QuizCalculator\bin\Debug\net8.0\QuizCalculator.dll
+C:\Users\rjhel\source\repos\QuizCalculator\bin\Debug\net8.0\QuizCalculator.pdb
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.dll
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\refint\QuizCalculator.dll
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.pdb
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\QuizCalculator.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\QuizCalculator\obj\Debug\net8.0\ref\QuizCalculator.dll
